@@ -1,0 +1,9 @@
+*.pdf
+*.root
+*.C
+*.h
+makeClass*
+*.list
+_*
+build
+plots
